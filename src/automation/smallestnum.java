@@ -23,8 +23,12 @@ public class smallestnum {
 		
 		else
 		{
-			System.out.println("The number is zzero");
+			System.out.println("The number is zero");
+			System.out.println("The number is one");
+			
 		}
+		
+		
 			
 		
 
