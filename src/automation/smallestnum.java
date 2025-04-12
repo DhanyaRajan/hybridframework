@@ -3,6 +3,11 @@ package automation;
 import java.util.Scanner;
 
 public class smallestnum {
+	public void display()
+	{
+		System.out.println("Testing is displayed");
+	}
+
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -24,7 +29,7 @@ public class smallestnum {
 		else
 		{
 			System.out.println("The number is zero");
-			System.out.println("The number is one");
+		
 			
 		}
 		
